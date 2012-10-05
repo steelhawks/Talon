@@ -15,9 +15,10 @@ Follow instructions here to set up:
    or NBGit for NetBeans
 
 2- follow the configuration instructions (1.2.1) in the EGit user guide: http://wiki.eclipse.org/EGit/User_Guide#Refspecs
+ 	or NBGit user guide: http://netbeans.org/kb/70/ide/git.html
 
-3- Follow the instructions in section 3.2 Starting from existing Git Repositories
-
+3- Follow the instructions in section 3.2 Starting from existing Git Repositories for EGit
+	or for NBGit, Cloning a Git Repository in http://netbeans.org/kb/docs/ide/git.html
 
 
 
